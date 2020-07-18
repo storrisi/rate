@@ -1,0 +1,21 @@
+.Login {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-image: url(../../assets/images/jefferson-santos-9SoCnyQmkzI-unsplash.jpg);
+  background-size: cover;
+  background-position: center center;
+}
+
+.Login h1 {
+  padding: 20px;
+  text-align: center;
+}
+
+.Logo {
+  width: 50%;
+  margin-bottom: 30px;
+}
